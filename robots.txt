@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://news.hoseinikhodro.com/sitemap.xml
